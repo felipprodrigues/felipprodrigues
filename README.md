@@ -1,87 +1,67 @@
-
-<!--  https://ritik307.github.io/portfolio/  -->
-<p align="center">
- 
-</p align="center">
+<!--<p align="center"> 
 <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+</p> -->
+<br/>
+<br/>
+<p align="center"> 
+Hey there! Welcome to my Github profile! 👋
+</p>
 
 <p align="center">
+    <!--As a dedicated Frontend Engineer bursting with enthusiasm for crafting delightful digital experiences I invite you to
+   <br/> -->
+   Come on in and take a closer look at what I've been up to – I think you'll like what you see!
  
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+  <p align="center">
+    <a href="https://www.linkedin.com/in/felipe-rodrigues-2929351b8/">
+     <img src="https://img.shields.io/badge/-feliperodrigues-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a>  
+    <a href="mailto: dev.rodriguesfelipp@gmail.com">
+     <img src="https://img.shields.io/badge/-felipprodrigues-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.rodriguesfelipp@gmail.com"/>
+   </a>
+  </p>
 
-</p>
-
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-Javascript-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-E34A86?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Typescript-00599C?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Nextjs-563D7C?style=flat-square&logo=nextjs"/>
-<img src="https://img.shields.io/badge/-Vitejs-430098?style=flat-square&logo=vitejs"/>
-<img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand"/>
-<img src="https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/-Styled-components-black?style=flat-square&logo=styled-components"/>
-<img src="https://img.shields.io/badge/-Stitches-black?style=flat-square&logo=stitches"/>
-<img src="https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=postgres"/>
-<img src="https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress"/>
-<img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma"/>
-</p>
-
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-</a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
-</p>
-
-
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
+  🚀 With over a 3 years of experience, I've honed demonstrating leadership in creating pixel perfect UI layouts and performant web applications. My journey is all about utilizing diverse technologies to design, develop, and deploy solutions while gaining deep insights into customers' needs and product usage.
  
-<br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+### Technology Stack
+
+<p align="center">
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="55" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="55" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="55" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="55" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="55" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="55" /></a>
+</p>
+<br/>
+<p align="center">
+  <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="55" /></a>
+  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="55" /></a>
+  <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="55" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="55" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></a>
+  <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="55" /></a>
+ </p>
+<br/>
+<p align="center">
+  <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="55" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="55" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="55" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55" /></a>
+  <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="55" /></a>
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipprodrigues&show_icons=true&line_height=27" style="width: 32.5%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipprodrigues&show_icons=true&locale=en&layout=compact&line_height=0" style="width: 32.5%;">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipprodrigues&hide=html,css,java,shaderlab,kotlin,hlsl&layout=compact" style="width: 32.5%;">
 </p> 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
