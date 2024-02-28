@@ -6,46 +6,40 @@
 <summary>Open profile</summary>
     <br/>
 
-<p style="display: inline-block;" align="center">
-          <a href="https://www.linkedin.com/in/felipe-rodrigues-2929351b8/ target="_blank""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" width="110px" height="28px"/></a>
-          <a href="mailto:dev.rodriguesfelipp@gmail.com?subject=Hi%20Felipe%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-        badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="  height="28px"/></a>       
-    </p>
-
-
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Guerrand">
+      <img height="150" alt="" src="./assets/profile-img.png" alt="Avatar">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
+<p style="display: inline-block;" align="center">
+          <a href="https://www.linkedin.com/in/felipe-rodrigues-2929351b8/ target="_blank""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"  height="23px"/></a>
+          <a href="mailto:dev.rodriguesfelipp@gmail.com?subject=Hi%20Felipe%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-        badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="  height="23px"/></a>       
+    </p>
+      
+      
   </div>
 </div>
 
 <details>
-<summary>Who am I</summary>
+<summary>About</summary>
 
 <div align="left">
 
 ```js
-/**
-
- * Represents me.
- * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
- * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building full-fledged web applications.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
- * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
- */
+function buildCharacter() {
+    return (
+        <PersonCharacteristics
+          name="Felipe Rodrigues"
+          jobTitle="Front-end Developer"
+          city="Bauru, Brazil"
+          languages={['English', 'Portuguese']}
+          interests="Healthy Lifestyle"
+          hobbies={['CrossFit', 'Playing the Bass']}
+          strength="Communicative"
+        />
+    )
+}
 ```
 
 </div>
