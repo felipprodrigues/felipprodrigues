@@ -82,10 +82,10 @@ function buildCharacter() {
         <tr>
           <td><a href="https://www.w3schools.com/css/" target="_blank" title="css3"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /></a></td>
           <td><a href="https://mui.com/" target="_blank" title="materialUi"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="30" /></a></td>
-          <td><a href="https://ui.shadcn.com/" target="_blank" title="shadcn"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="shadcn/ui" height="30" /></a></td>
+          <td><a href="https://ui.shadcn.com/" target="_blank" title="shadcn"><img style="margin: 10px" src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" height="30" /></a></td>
         </tr>
         <tr>
-          <td><a href="https://chakra-ui.com/" target="_blank" title="chakraui"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/chakra-ui.png" alt="Chakra UI" height="30" /></a></td>
+          <td><a href="https://chakra-ui.com/" target="_blank" title="chakraui"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" alt="Chakra UI" height="30" /></a></td>
           <td></td>
           <td></td>
         </tr>
@@ -104,7 +104,7 @@ function buildCharacter() {
         <tr>
           <td><a href="https://www.prisma.io/" target="_blank" title="prisma"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="30" /></a></td>
           <td><a href="https://github.com/" target="_blank" title="git"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a></td>
-          <td><a href="https://www.docker.com/" target="_blank" title="docker"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" /></a></td>
+          <td><a href="https://www.docker.com/" target="_blank" title="docker"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="30" /></a></td>
         </tr>
       </table>
     </div>
@@ -141,7 +141,7 @@ function buildCharacter() {
 
 </details>
 
-<div style="margin-top: 30px;"></div>
+<div style="margin-top: 40px;"></div>
 
 ![Bottom of React](./assets/react-bottom.png)
 
