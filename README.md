@@ -104,38 +104,12 @@ function buildCharacter() {
         <tr>
           <td><a href="https://www.prisma.io/" target="_blank" title="prisma"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="30" /></a></td>
           <td><a href="https://github.com/" target="_blank" title="git"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a></td>
-          <td><a href="https://www.docker.com/" target="_blank" title="docker"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="30" /></a></td>
+          <td><a href="https://www.docker.com/" target="_blank" title="docker"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" /></a></td>
         </tr>
       </table>
     </div>
   </div>
 </div>
-</details>
-
-<details>
-    <summary>Metrics</summary>
-    <div>
-      <p style="display: inline-block;" align="center">
-        <kbd>
-          <kbd>Git Stats</kbd>
-          <br>
-          <br>
-          <img src="https://github-readme-stats.vercel.app/api?username=felipprodrigues&show_icons=true&line_height=27&theme=github_dark_dimmed" style="height: 175px">
-        </kbd>
-        <kbd>
-          <kbd>Git Streak</kbd>
-          <br>
-          <br>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipprodrigues&show_icons=true&locale=en&layout=compact&line_height=0&theme=github_dark_dimmed" style="height: 175px">
-        </kbd>
-         <kbd>
-          <kbd>Languages</kbd>
-          <br>
-          <br>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipprodrigues&hide=html,css,java,shaderlab,kotlin,hlsl&layout=compact&theme=github_dark_dimmed" style="height: 175px">
-        </kbd>
-      </p>
-    </div>
 </details>
 
 
