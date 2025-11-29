@@ -104,7 +104,9 @@ function buildCharacter() {
         <tr>
           <td><a href="https://www.prisma.io/" target="_blank" title="prisma"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="30" /></a></td>
           <td><a href="https://github.com/" target="_blank" title="git"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a></td>
-          <td><a href="https://www.docker.com/" target="_blank" title="docker"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" /></a></td>
+          <td><a href="https://www.docker.com/" target="_blank" title="docker">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="30" style="margin: 10px"/>
+          </a></td>
         </tr>
       </table>
     </div>
